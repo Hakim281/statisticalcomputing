@@ -69,4 +69,3 @@ SCARLET PATIENCE BSCCS/2024/54567
 | Juakim | Topic 1 (Descriptive statistics), Topic 14 (Visualization), Topic 7 (Correlation and covariance) |
 | Scalet | Topic 5 (Confidence intervals), Topic 6 (Hypothesis testing), Topic 8 (Linear regression) |
 
-Both members worked on the dataset, the Python and R code, and the documentation.
