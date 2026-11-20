@@ -59,8 +59,12 @@ outputs/     console output (python/, r/) and figures (figures/python, figures/r
 ## Python and R agreement
 
 Deterministic results (descriptive statistics, t-tests, correlations, regression coefficients, p-values) match across the two languages. Results that depend on random numbers (bootstrap intervals, coverage simulation, the regression hold-out split) differ slightly because the two languages use different random number generators.
- GROUP MEMBERS
- JUAKIM NJUGUNA BSCCS/2024/54733
- SCARLET PATIENCE BSCCS/
 
+## Team
 
+| Member | Topics presented |
+|---|---|
+| Juakim | Topic 1 (Descriptive statistics), Topic 14 (Visualization), Topic 7 (Correlation and covariance) |
+| Scalet | Topic 5 (Confidence intervals), Topic 6 (Hypothesis testing), Topic 8 (Linear regression) |
+
+Both members worked on the dataset, the Python and R code, and the documentation.
